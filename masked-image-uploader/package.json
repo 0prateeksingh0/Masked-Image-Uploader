@@ -4,6 +4,7 @@
   "private": true,
   "proxy":"http://127.0.0.1:8000",
   "dependencies": {
+    "react-scripts": "^5.0.1",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
     "fabric": "^6.5.3",
