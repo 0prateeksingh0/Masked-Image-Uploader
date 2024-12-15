@@ -97,6 +97,9 @@ The backend will be available at [http://localhost:8000](http://localhost:8000).
 ### **Side-by-Side View**  
 ![Side-by-Side View](https://github.com/user-attachments/assets/c2c13a0f-762c-433c-bfff-7673ccb201c5)  
 
+### **Exported Image**  
+![Screenshot (623)](https://github.com/user-attachments/assets/a7019714-d3e1-427f-a484-392f6d90b865)
+
 ---
 
 ## 📌 **Future Enhancements**  
